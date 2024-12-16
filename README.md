@@ -19,7 +19,6 @@ _Главная цель SmartThing_ - упростить создание IOT �
 |SmartThingCloud|[![Validate](https://github.com/PavelProjects/SmartThingCloud/actions/workflows/maven.yml/badge.svg)](https://github.com/PavelProjects/SmartThingCloud/actions/workflows/maven.yml)|
 |SmartThingLibWeb|[![Validate](https://github.com/PavelProjects/SmartThingLibWeb/actions/workflows/validate.yml/badge.svg)](https://github.com/PavelProjects/SmartThingLibWeb/actions/workflows/validate.yml)</br>[![Trigger web header update in lib](https://github.com/PavelProjects/SmartThingLibWeb/actions/workflows/dispatch-update.yml/badge.svg)](https://github.com/PavelProjects/SmartThingLibWeb/actions/workflows/dispatch-update.yml)|
 |SmartThingWeb|[![Validate](https://github.com/PavelProjects/SmartThingWeb/actions/workflows/node.js.yml/badge.svg)](https://github.com/PavelProjects/SmartThingWeb/actions/workflows/node.js.yml)|
-|SmartThingApiCommon|[![Validate](https://github.com/PavelProjects/SmartThingApiCommon/actions/workflows/validate.yml/badge.svg)](https://github.com/PavelProjects/SmartThingApiCommon/actions/workflows/validate.yml)|
 |SmartThingBuilder|[![Validate](https://github.com/PavelProjects/SmartThingBuilder/actions/workflows/node.js.yml/badge.svg)](https://github.com/PavelProjects/SmartThingBuilder/actions/workflows/node.js.yml)|
 
 
