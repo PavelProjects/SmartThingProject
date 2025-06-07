@@ -24,7 +24,7 @@ _Главная цель SmartThing_ - упростить создание IOT �
 
 ## Архитектура системы
 Крайне поверхностное описание взаимодействия компонентов системы
-![](https://github.com/PavelProjects/SmartThingProject/blob/main/smt_arch2.jpg?raw=true)
+![](https://github.com/PavelProjects/SmartThingProject/blob/main/scheme.png?raw=true)
 
 ## Проекты платформы
 - [SmartThingLib](https://github.com/PavelProjects/SmartThingLib) - библиотека для разработки IOT устройств на базе ESP32
